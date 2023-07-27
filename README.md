@@ -1,6 +1,8 @@
 # RoyalEnfield_CleanArch_DDD
 Projeto estudo CleanArch e DDD sob DotNet7
 
+Domain-Driven Design e Clean Architecture - Microsserviços com ASP.NET Core
+
 Estou colocando em estudo esse pequeno projeto, uma pequena API de loja de uma concessionara de motos, 
 
 usando DDD, SOLID, CLean Arch..tudo rodando em DotNet 7.
